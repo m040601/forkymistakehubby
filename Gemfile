@@ -1,2 +1,4 @@
 source "https://rubygems.org"
-gemspec
+# was gemspec
+# is
+gem "github-pages", group: :jekyll_plugins
